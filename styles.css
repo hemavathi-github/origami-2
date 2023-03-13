@@ -47,14 +47,14 @@ a:visited{
     width: 1600px;
     position: absolute;
     top:40%;
-    left:80%;
-    transform: translate(-50%, -50%);
+    left:40%;
+    transform: translate(-40%, -40%);
 }
 .grid{
     display: flex;
     flex-wrap: wrap;
     margin: 40px;
-    margin-top: 550px;
+
     font-family: sans-serif;
     
 }
